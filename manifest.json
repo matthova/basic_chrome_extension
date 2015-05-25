@@ -1,0 +1,19 @@
+{
+    "name": "Basic Button Chrome Extension",
+    "version": "1.0",
+    "description": "Chrome Extension Example for manipulating DOM with an extension button.",
+    "content_scripts": [{
+        "matches": ["<all_urls>"],
+        "js": ["content.js"]
+    }],
+    "browser_action": {
+        "scripts": ["popup.js"],
+        "default_title": "Title Change on Click",
+        "default_icon": "icon.png",
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "activeTab"
+    ],
+    "manifest_version": 2
+}

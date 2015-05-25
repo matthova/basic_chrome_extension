@@ -1,0 +1,1 @@
+Barebones example of manipulating a site's DOM via a click event from a chrome extension.
