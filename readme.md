@@ -1,8 +1,9 @@
 Barebones example of manipulating a site's DOM via a click event from a chrome extension.
 
-Thanks to John Sonmez and Akira Tanaka for pointing me in the right direction:
-http://www.sitepoint.com/create-chrome-extension-10-minutes-flat/#testing
-http://tipstak.blogspot.com/2014/05/how-to-manipulate-dom-from-chrome-extension.html
+Thanks to [John Sonmez](http://www.sitepoint.com/create-chrome-extension-10-minutes-flat/
+) and [Akira Tanaka](http://tipstak.blogspot.com/2014/05/how-to-manipulate-dom-from-chrome-extension.html
+) for pointing me in the right direction.
+
 
 To test the plugin:
 
